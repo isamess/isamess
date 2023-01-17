@@ -7,8 +7,8 @@ My name is Isabel Mesina
 
 🌱About me:
 I’m just finished my Full Stack Web Developer Bootcamp at Henry. I'm looking for a job where I can develop all the knowledge and skills I learned at Henry Bootcamp.
-In my proyects I used several technologies that I've studied. I'm still researching and studing new technologies. I have an opened mind, I've a problem-solving oriented mind. 
-The technologies and frameworks I've been using are  Javascript, NodeJS, Express, React, Redux, SQL, MongoDB, Typescript, Redux-Toolkit, Bootstrap, Material UI, among others.
+In my proyects I used several technologies that I've studied. I'm still researching and studing new technologies. I have an opened and  a problem-solving oriented mind. 
+The technologies and frameworks I've been using are  Javascript, NodeJS, Express, React, Redux, SQL, MongoDB, Typescript, Redux-Toolkit, Bootstrap, Material UI, among others and I intend to learn some other more.
 
   <hr></hr>
 📫 How to reach me:
@@ -23,7 +23,7 @@ The technologies and frameworks I've been using are  Javascript, NodeJS, Express
    <a href="https://twitter.com/isa_mesina">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
- <br></br>
+  <br></br>
  </div>
 :iphone:541131317945
 <br></br>
@@ -33,8 +33,7 @@ Buenos Aires, Argentina
  :hammer_and_wrench: Languages and Tools :
  <br></br>
  <div>
- 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
@@ -44,8 +43,8 @@ Buenos Aires, Argentina
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="50" height="50"/>&nbsp;
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" title="bootstrap" alt="bootstrap" width="40" height="40"/>&nbsp;
- 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="60" height="60"/>&nbsp;
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" title="Trello" alt="Trello" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="50" height="50"/>&nbsp;
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="mongodb" alt="mongodb" width="40" height="40"/>&nbsp; 
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" title="postgresql" alt="postgresql" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" title="express" alt="express" width="40" height="40" />

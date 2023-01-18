@@ -48,6 +48,7 @@ Buenos Aires, Argentina
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="mongodb" alt="mongodb" width="40" height="40"/>&nbsp; 
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" title="postgresql" alt="postgresql" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" title="express" alt="express" width="40" height="40" />
+ <img src="https://seekvectorlogo.com/wp-content/uploads/2022/02/cloudinary-vector-logo-2022.png" title="cloudinary" alt="cloudinary" width="40" height="40"/>
 </div>
 
 

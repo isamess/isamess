@@ -4,11 +4,16 @@
  
 Hi there!:raising_hand: 
 My name is Isabel Mesina
+  <hr></hr>
 
 🌱About me:
-I’m just finished my Full Stack Web Developer Bootcamp at Henry. I'm looking for a job where I can develop all the knowledge and skills I learned at Henry Bootcamp.
-In my proyects I used several technologies that I've studied. I'm still researching and studing new technologies. I have an opened and  a problem-solving oriented mind. 
-The technologies and frameworks I've been using are  Javascript, NodeJS, Express, React, Redux, SQL, MongoDB, Typescript, Redux-Toolkit, Bootstrap, Material UI, among others and I intend to learn some other more.
+<br></br>
+ I’m a Full Stack Web Developer. I like jobs where I can develop all the knowledge and skills I learned at Henry Bootcamp and all the knowledge I learnt by myself and with other partners.
+ In our projects we used several technologies. I'm always researching and studing new documentation and technologies. I have an opened and  a problem-solving oriented mind and I like to find out new solutions.
+  I love to work as collaborate part of a productive team but able to be effectively self-manage in independent projects, too.
+  The technologies and frameworks I've been using are  Javascript, NodeJS, Express, React, Redux, SQL, MongoDB, Typescript, Redux-Toolkit, Bootstrap, Material UI, EmailJS, Toastify among others and I intend to learn some others more.
+ According to my former studies, I'm a Philosophy and Literature teacher, I'm  used to  problems solving and creativity, that is the common thread that links all my knowledge and skills through Art, Philosophy, Literature and Programming.
+
 
   <hr></hr>
 📫 How to reach me:
@@ -25,7 +30,7 @@ The technologies and frameworks I've been using are  Javascript, NodeJS, Express
   </a>
   <br></br>
  </div>
-:iphone:541131317945
+:iphone:541131317947
 <br></br>
 Buenos Aires, Argentina
  

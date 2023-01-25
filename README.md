@@ -12,6 +12,7 @@ My name is Isabel Mesina
  In our projects we used several technologies. I'm always researching and studing new documentation and technologies. I have an opened and  a problem-solving oriented mind and I like to find out new solutions.
   I love to work as collaborate part of a productive team but able to be effectively self-manage in independent projects, too.
   The technologies and frameworks I've been using are  Javascript, NodeJS, Express, React, Redux, SQL, MongoDB, Typescript, Redux-Toolkit, Bootstrap, Material UI, EmailJS, Toastify among others and I intend to learn some others more.
+  I also studied Digital Marketing, Web Design and Graphic Design with Corel Draw, PhotoshopAdobe Illustrator and In Design programs.
  According to my former studies, I'm a Philosophy and Literature teacher, I'm  used to  problems solving and creativity, that is the common thread that links all my knowledge and skills through Art, Philosophy, Literature and Programming.
 
 

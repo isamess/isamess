@@ -9,7 +9,7 @@ My name is Isabel Mesina
 
 🌱About me:
 <br></br>
- I’m a Full Stack Web Developer. I love to solve problems. I like jobs where I can develop all the knowledge and skills I learned at Henry Bootcamp and all the knowledge I learnt by myself and with other partners. I have develop an  individual project there and a team project too which I like most.
+ I’m a Full Stack Web Developer. I love to solve problems. I like jobs where I can develop all the knowledge and skills I learned at Henry Bootcamp and all the knowledge I learnt by myself and with other partners. I have develop some  individual projects  and team projects too which I like most.
  <br></br>
  In our projects we used several technologies. I'm always researching and studing new documentation and technologies. I have an opened and problem-solving oriented mind and I like to find out new solutions.
   I love to work as collaborate part of a productive team but able to be effectively self-manage at independent projects, too.

@@ -10,18 +10,24 @@ My name is Isabel Mesina
 🌱About me:
 <br></br>
  I’m a Full Stack Web Developer. I love to solve problems. I like jobs where I can develop all the knowledge and skills I learned at Henry Bootcamp and all the knowledge I learnt by myself and with other partners. I have develop an  individual project there and a team project too which I like most.
+ <br></br>
  In our projects we used several technologies. I'm always researching and studing new documentation and technologies. I have an opened and problem-solving oriented mind and I like to find out new solutions.
   I love to work as collaborate part of a productive team but able to be effectively self-manage at independent projects, too.
+  <br></br>
   The technologies and frameworks I've been using are  Javascript, NodeJS, Express, React, Redux, SQL, MongoDB, Typescript, Redux-Toolkit, Bootstrap, Material UI, EmailJS, Toastify among others and I am learning Java and some others more at this moment.
+  <br></br>
   I also studied Digital Marketing, Web Design and Graphic Design with Corel Draw, Photoshop, Adobe Illustrator and In Design programs.
+  <br></br>
  According to my former studies (I'm a Philosophy and Literature teacher) I'm  used to  problems solving and creativity, that is the common thread that links all my knowledge and skills through Art, Philosophy, Literature and Programming.
+ <br></br>
  What I like and can offer:
-
-I'm open to learn.
-Enjoy Solving problems.
-I like to work with teams
-Work with goals and focus on problems.
-I do one task at a time and like to do it properly.
+<ul style= "text-decoration: none">
+  <li>I'm always open to learn.</li>
+  <li>Enjoy Solving problems.</li>
+  <li>I like to work with teams.</li>
+  <li>Work with goals and focus on solving problems.</li>
+  <li>I do one task at a time and like to do it properly.</li>
+</ul>
 
   <hr></hr>
 📫 How to reach me:

@@ -17,6 +17,7 @@ My name is Isabel Mesina
   The technologies and frameworks I've been using are  Javascript, NodeJS, Express, React, Redux, SQL, MongoDB, Typescript, Redux-Toolkit, Bootstrap, Material UI, EmailJS, Toastify among others and I am learning Java and some others more at this moment.
   <br></br>
   I also studied Digital Marketing, Web Design and Graphic Design with Corel Draw, Photoshop, Adobe Illustrator and In Design programs.
+  I'm a plastic artist too, I'm a vitralist and muralist and I did my own page to make people know my art, I perform my works with different materials, means and techniques according to different goals. You can see it at https://artesenvitraux.wordpress.com/
   <br></br>
  According to my former studies (I'm a Philosophy and Literature teacher) I'm  used to  problems solving and creativity, that is the common thread that links all my knowledge and skills through Art, Philosophy, Literature and Programming.
  <br></br>
@@ -42,6 +43,7 @@ My name is Isabel Mesina
    <a href="https://twitter.com/isa_mesina">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
+  <My art! https://artesenvitraux.wordpress.com/
   <br></br>
  </div>
 :iphone:541131317947

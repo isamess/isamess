@@ -18,7 +18,7 @@ My name is Isabel Mesina
   <br></br>
   I also studied Digital Marketing, Web Design and Graphic Design with Corel Draw, Photoshop, Adobe Illustrator and In Design programs.
    <br></br>
-  I'm a plastic artist too, I'm a vitralist and muralist and I did my own page to make people know my art, I perform my works with different materials, means and techniques according to different goals. You can see it at https://artesenvitraux.wordpress.com/
+  I'm a plastic artist too, I'm a vitralist and muralist and I did my own site to make people know my art, I perform my works with different materials, means and techniques according to different goals. You can see it at https://artesenvitraux.wordpress.com/
   <br></br>
  According to my former studies (I'm a Philosophy and Literature teacher) I'm  used to  problems solving and creativity, that is the common thread that links all my knowledge and skills through Art, Philosophy, Literature and Programming.
  <br></br>

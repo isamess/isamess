@@ -57,7 +57,7 @@ My name is Isabel Mesina
  <img src="https://raw.githubusercontent.com/isamess/isamess/main/isaportfolio3d.png">
   </a>
  
-You can look at it, you can  play with cards,  image coomputer, technologies balls and send me a message if you want
+You can look at it, play with cards, spin the computer image, technology balls and fill a form to send me a message if you want.
 </div>
   
 Buenos Aires, Argentina

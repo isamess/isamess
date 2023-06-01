@@ -49,9 +49,12 @@ My name is Isabel Mesina
  </div>
 :iphone:541131317947
 <br></br>
+<div>
+<img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/945b0225337909.563440870421b.png"
 My Portfolio 3D:
+     <a href="https://isamess.github.io/portfolio3d/">
 You can look at it, you can  play with cards,  image coomputer, technologies balls and send me a message if you want
-<a href="https://isamess.github.io/portfolio3d/">
+</div>
   
 Buenos Aires, Argentina
  

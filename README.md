@@ -25,7 +25,7 @@ My name is Isabel Mesina
  What I like and can offer:
 <ul style= "text-decoration: none">
   <li>I'm always open to learn.</li>
-  <li>Enjoy Solving problems.</li>
+  <li>Enjoy solving problems.</li>
   <li>I like to work with teams.</li>
   <li>Work with goals and focus on solving problems.</li>
   <li>I do one task at a time and like to do it properly.</li>
@@ -50,10 +50,13 @@ My name is Isabel Mesina
 :iphone:541131317947
 <br></br>
 <div>
-  My Portfolio 3D:
-<img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/945b0225337909.563440870421b.png"
+   My Portfolio 3D:
+  <br></br>
+  <a href="https://isamess.github.io/portfolio3d/">
 
-     <a href="https://isamess.github.io/portfolio3d/">
+ <img src="">
+  </a>
+ 
 You can look at it, you can  play with cards,  image coomputer, technologies balls and send me a message if you want
 </div>
   

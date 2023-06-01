@@ -54,7 +54,7 @@ My name is Isabel Mesina
   <br></br>
   <a href="https://isamess.github.io/portfolio3d/">
 
- <img src="">
+ <img src="https://raw.githubusercontent.com/isamess/isamess/main/isaportfolio3d.png">
   </a>
  
 You can look at it, you can  play with cards,  image coomputer, technologies balls and send me a message if you want

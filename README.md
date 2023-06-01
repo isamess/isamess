@@ -9,26 +9,26 @@ My name is Isabel Mesina
 
 🌱About me:
 <br></br>
- I’m a Full Stack Web Developer. I love to solve problems. I like jobs where I can develop all the knowledge and skills I learned at Henry Bootcamp and all the knowledge I learnt by myself and with other partners. I have develop some  individual projects  and team projects too which I like most.
+ I'm a Full Stack Web Developer. I love to solve problems. I like jobs where I can develop all the knowledge and skills I learned at Henry Bootcamp, all the knowledge I learnt by myself and with other partners. I have developed some  individual and team projects too which I like most.
  <br></br>
  In our projects we used several technologies. I'm always researching and studing new documentation and technologies. I have an opened and problem-solving oriented mind and I like to find out new solutions.
   I love to work as collaborate part of a productive team but able to be effectively self-manage at independent projects, too.
   <br></br>
-  The technologies and frameworks I've been using are  Javascript, NodeJS, Express, React, Redux, SQL, MongoDB, Typescript, Redux-Toolkit, Bootstrap, Material UI, EmailJS, Toastify among others and I am learning Java and some others more at this moment.
+  The technologies and frameworks I've been using are  Javascript, NodeJS, Express, React, Redux, SQL, MongoDB, Typescript, Redux-Toolkit, Bootstrap, Material UI, EmailJS, Toastify, Three.js, Vue.js, among others and I am learning Java and some others more at this moment.
   <br></br>
   I also studied Digital Marketing, Web Design and Graphic Design with Corel Draw, Photoshop, Adobe Illustrator and In Design programs.
    <br></br>
   I'm a plastic artist too, I'm a vitralist and muralist and I did my own site to make people know my art, I perform my works with different materials, means and techniques according to different goals. You can see it at https://artesenvitraux.wordpress.com/
   <br></br>
- According to my former studies (I'm a Philosophy and Literature teacher) I'm  used to  problems solving and creativity, that is the common thread that links all my knowledge and skills through Art, Philosophy, Literature and Programming.
+ According to my former studies (I'm a Philosophy and Literature teacher) I'm  used to  problems solving and creativity, that is the common thread that links all my knowledge and skills through Art, Logic, Philosophy, Literature and Programming.
  <br></br>
  What I like and can offer:
 <ul style= "text-decoration: none">
   <li>I'm always open to learn.</li>
   <li>Enjoy solving problems.</li>
-  <li>I like to work with teams.</li>
-  <li>Work with goals and focus on solving problems.</li>
-  <li>I do one task at a time and like to do it properly.</li>
+  <li>I love working with teams.</li>
+  <li>I Work with goals and focus on solving problems.</li>
+  <li>I do one task at a time and like to do it properly until it's done.</li>
 </ul>
 
   <hr></hr>
@@ -80,9 +80,10 @@ Buenos Aires, Argentina
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="45" height="45"/>&nbsp;
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="mongodb" alt="mongodb" width="40" height="40"/>&nbsp; 
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" title="postgresql" alt="postgresql" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" title="express" alt="express" width="40" height="40" />
- <img src="https://seekvectorlogo.com/wp-content/uploads/2022/02/cloudinary-vector-logo-2022.png" title="cloudinary" alt="cloudinary" width="40" height="40"/>
-</div>
-
+<img src="https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo-thumbnail.png" title="express" alt="express" width="40" height="40" />
+ <img src="https://img2.freepng.es/20180426/yce/kisspng-cloudinary-computer-software-software-as-a-service-5ae2211173ebf6.3513513815247690414748.jpg" title="cloudinary" alt="cloudinary" width="40" height="40"/>
+<img src="https://camo.githubusercontent.com/0afeff7d9e8c34e6b8f76ca61bacdb16deea72980700b83485460d03d7e32997/68747470733a2f2f7676636573747564696f2e636f6d2e62722f7374617469632f61737365747376352f696d672f636f6469676f2f6c6f676f74687265656a732e706e67" title="Three.js" alt="Three.js" width="40" height="40"/>
+</div
+ width="40" height="40"
 
 

@@ -14,7 +14,7 @@ My name is Isabel Mesina
  In our projects we used several technologies. I'm always researching and studing new documentation and technologies. I have an opened and problem-solving oriented mind and I like to find out new solutions.
   I love to work as collaborate part of a productive team but able to be effectively self-manage at independent projects, too.
   <br></br>
-  The technologies and frameworks I've been using are  Javascript, NodeJS, Express, React, Redux, SQL, MongoDB, Typescript, Redux-Toolkit, Bootstrap, Material UI, EmailJS, Toastify, Three.js, Vue.js, among others and I've studied Fullstack with Javascript an Fullstack with Python and Flask. actually, I'm having a course of UX/UI. 
+  The technologies and frameworks I've been using are Javascript, NodeJS, Express, React, Redux, SQL, MongoDB, Typescript, Redux-Toolkit, Bootstrap, Material UI, EmailJS, Toastify, Three.js, Vue.js, among others and I've studied Fullstack with Javascript and NodeJS and another course of Fullstack with Python and Flask. Actually, I'm taking a course of UX/UI in Talento Tech Platform. 
   <br></br>
   I also studied Digital Marketing, Web Design and Graphic Design with Corel Draw, Photoshop, Adobe Illustrator and In Design programs.
    <br></br>

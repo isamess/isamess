@@ -82,7 +82,7 @@ Buenos Aires, Argentina
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" title="postgresql" alt="postgresql" width="40" height="40"/>&nbsp;
 <img src="https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo-thumbnail.png" title="express" alt="express" width="40" height="40" />
  <img src="https://img2.freepng.es/20180426/yce/kisspng-cloudinary-computer-software-software-as-a-service-5ae2211173ebf6.3513513815247690414748.jpg" title="cloudinary" alt="cloudinary" width="40" height="40"/>
-<img src="https://camo.githubusercontent.com/0afeff7d9e8c34e6b8f76ca61bacdb16deea72980700b83485460d03d7e32997/68747470733a2f2f7676636573747564696f2e636f6d2e62722f7374617469632f61737365747376352f696d672f636f6469676f2f6c6f676f74687265656a732e706e67" title="Three.js" alt="Three.js" width="40" height="40"/>
+<img src="[http://www.w3.org/2000/svg](https://github.com/devicons/devicon/blob/v2.16.0/icons/threejs/threejs-original-wordmark.svg?short_path=3b3adb2)" title="Three.js" alt="Three.js" width="40" height="40"/>
 </div
  width="40" height="40"
 
